@@ -7,7 +7,7 @@ This module covers some of the python libraries which are as follows:-
 5. Scikit-learn: Machine learning library with tools for classification, regression, clustering, dimensionality reduction, and model evaluation.
 6. BeautifulSoup: Library for web scraping and parsing HTML and XML documents.
 
-# Pandas
+# Theory 1 - Pandas
 Python pandas is a powerful open-source data analysis and manipulation library. It provides data structures and functions to efficiently work with structured data, such as tabular data, time series, and heterogeneous data.
 There are two main features of pandas as:
 
